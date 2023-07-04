@@ -60,7 +60,7 @@ pipeline {
               -Dsonar.projectKey=test \
               -Dsonar.host.url=http://18.237.55.80:9000 \
               -Dsonar.login=cb1d22008cb8f267d1c25dbd09f9c32d5506f27d
-                """
+              """
                 }
             }
         }
